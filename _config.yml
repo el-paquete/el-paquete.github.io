@@ -1,6 +1,6 @@
 # site settings
 title: Diogo Silva
-subtitle: by HTML5 UP
+subtitle: - Data Analyst
 email: emiliofast@tutanota.com
 description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -19,11 +19,12 @@ facebook_url:
 github_url: https://github.com/diogo-costa-silva
 gitlab_url: 
 googleplus_url:
-instagram_url:
+instagram_url: 
 linkedin_url: https://www.linkedin.com/in/diogo-costa-silva
 pinterest_url:
 slack_url:
 twitter_url: https://twitter.com/andrewbanchich
+medium_url: https://medium.com/@emiliofast
 
 # build settings
 markdown: kramdown
